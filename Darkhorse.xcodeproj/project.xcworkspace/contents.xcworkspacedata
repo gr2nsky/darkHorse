@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/greensky/Documents/GitHub/darkhorse/Darkhorse.xcodeproj">
+      location = "self:../Darkhorse">
    </FileRef>
 </Workspace>

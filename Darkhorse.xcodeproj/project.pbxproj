@@ -36,22 +36,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8009675F2616179B00354F86 /* item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = item.swift; sourceTree = "<group>"; };
-		802F2AC1260A2C0E0093E090 /* Horse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Horse.swift; sourceTree = "<group>"; };
-		802F2AC4260A30F10093E090 /* raceReady.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = raceReady.swift; sourceTree = "<group>"; };
-		802F2AC7260A5BC70093E090 /* scheduleMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scheduleMain.swift; sourceTree = "<group>"; };
-		802F2ACB260A70C80093E090 /* schedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = schedule.swift; sourceTree = "<group>"; };
+		8009675F2616179B00354F86 /* item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = item.swift; sourceTree = SOURCE_ROOT; };
+		802F2AC1260A2C0E0093E090 /* Horse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Horse.swift; sourceTree = SOURCE_ROOT; };
+		802F2AC4260A30F10093E090 /* raceReady.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = raceReady.swift; sourceTree = SOURCE_ROOT; };
+		802F2AC7260A5BC70093E090 /* scheduleMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scheduleMain.swift; sourceTree = SOURCE_ROOT; };
+		802F2ACB260A70C80093E090 /* schedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = schedule.swift; sourceTree = SOURCE_ROOT; };
 		803C8577260885C600EF51D3 /* Darkhorse */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Darkhorse; sourceTree = BUILT_PRODUCTS_DIR; };
-		803C857A260885C600EF51D3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = /Users/greensky/Documents/GitHub/darkhorse/Darkhorse/main.swift; sourceTree = "<absolute>"; };
+		803C857A260885C600EF51D3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = ../../../../../Users/greensky/Documents/GitHub/darkhorse/Darkhorse/main.swift; sourceTree = SOURCE_ROOT; };
 		803C85832608863300EF51D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.workspace; name = Base; path = Base.lproj/Untitled.xcworkspace; sourceTree = "<group>"; };
-		803C859B2608B08100EF51D3 /* race.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = race.swift; path = /Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Race/race.swift; sourceTree = "<absolute>"; };
-		803C85A02608B39600EF51D3 /* userInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = userInfo.swift; path = /Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Data/userInfo.swift; sourceTree = "<absolute>"; };
-		803C85AB2608B46B00EF51D3 /* raceMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = raceMain.swift; path = /Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Race/raceMain.swift; sourceTree = "<absolute>"; };
-		80C609AD260C12BD000B53B7 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
-		80C609AF260C12BD000B53B7 /* SignUP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUP.swift; sourceTree = "<group>"; };
-		80C609C9260DC3A7000B53B7 /* shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shop.swift; sourceTree = "<group>"; };
-		80C609DB2610BDA9000B53B7 /* feed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feed.swift; sourceTree = "<group>"; };
-		80C609DE2610BDC3000B53B7 /* tranining.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tranining.swift; sourceTree = "<group>"; };
+		803C859B2608B08100EF51D3 /* race.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = race.swift; path = ../../../../../Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Race/race.swift; sourceTree = SOURCE_ROOT; };
+		803C85A02608B39600EF51D3 /* userInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = userInfo.swift; path = ../../../../../Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Data/userInfo.swift; sourceTree = SOURCE_ROOT; };
+		803C85AB2608B46B00EF51D3 /* raceMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = raceMain.swift; path = ../../../../../Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Race/raceMain.swift; sourceTree = SOURCE_ROOT; };
+		80C609AD260C12BD000B53B7 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = SOURCE_ROOT; };
+		80C609AF260C12BD000B53B7 /* SignUP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUP.swift; sourceTree = SOURCE_ROOT; };
+		80C609C9260DC3A7000B53B7 /* shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shop.swift; sourceTree = SOURCE_ROOT; };
+		80C609DB2610BDA9000B53B7 /* feed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feed.swift; sourceTree = SOURCE_ROOT; };
+		80C609DE2610BDC3000B53B7 /* tranining.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tranining.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +80,7 @@
 				803C8577260885C600EF51D3 /* Darkhorse */,
 			);
 			name = Products;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		803C8579260885C600EF51D3 /* Darkhorse */ = {
 			isa = PBXGroup;
@@ -93,9 +93,8 @@
 				80C609AD260C12BD000B53B7 /* Login.swift */,
 				80C609AF260C12BD000B53B7 /* SignUP.swift */,
 			);
-			name = Darkhorse;
-			path = /Users/greensky/Documents/GitHub/darkhorse/Darkhorse;
-			sourceTree = "<absolute>";
+			path = Darkhorse;
+			sourceTree = SOURCE_ROOT;
 		};
 		803C859E2608B37E00EF51D3 /* Data */ = {
 			isa = PBXGroup;
@@ -105,8 +104,8 @@
 				802F2AC1260A2C0E0093E090 /* Horse.swift */,
 			);
 			name = Data;
-			path = /Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Data;
-			sourceTree = "<absolute>";
+			path = ../../../../../Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Data;
+			sourceTree = SOURCE_ROOT;
 		};
 		803C85A12608B3A400EF51D3 /* Schedule */ = {
 			isa = PBXGroup;
@@ -117,8 +116,8 @@
 				80C609DE2610BDC3000B53B7 /* tranining.swift */,
 			);
 			name = Schedule;
-			path = /Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Schedule;
-			sourceTree = "<absolute>";
+			path = ../../../../../Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Schedule;
+			sourceTree = SOURCE_ROOT;
 		};
 		803C85AA2608B45500EF51D3 /* Race */ = {
 			isa = PBXGroup;
@@ -128,8 +127,8 @@
 				802F2AC4260A30F10093E090 /* raceReady.swift */,
 			);
 			name = Race;
-			path = /Users/greensky/Documents/GitHub/darkhorse/Darkhorse/Race;
-			sourceTree = "<absolute>";
+			path = Darkhorse/Race;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -215,7 +214,7 @@
 			);
 			name = Untitled.xcworkspace;
 			path = ..;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXVariantGroup section */
 
